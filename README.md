@@ -61,6 +61,6 @@ Last Tested: 28/07/2024
 ## This will be useful for practicing machine learning.
 - If you like this Project - Give me a Star⭐
 - For more interesting Projects, Follow me on Github
-- [LinkedIN](https://linkedin.com/in/venkata-sreeram)
+- [LinkedIN]([https://www.linkedin.com/in/bharath-kumar-46997b260/]))
 #### Best regards:
 ### Venkata Sreeram😊
